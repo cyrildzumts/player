@@ -3,7 +3,7 @@ A Ubuntu Touch Music Player
 
 Actually this is  UI part of the Player Project, a QML Music Player for Ubuntu Touch.
 The project is plit into two parts :
-*The UI part ( this one )
+* The UI part ( this one )
 * The Logic Part.
 
 The UI part needs the libPlayerModules.so ( the logic part) to be installed on one of the following path :
@@ -11,7 +11,7 @@ The UI part needs the libPlayerModules.so ( the logic part) to be installed on o
 * $HOME/.local/share
 
 You can find the logic part here : https://github.com/cyrildzumts/playermodules.git.
-you need :
+ you need :
 * Qt-Creator 
 * Qt 5.4
 * Taglib 
