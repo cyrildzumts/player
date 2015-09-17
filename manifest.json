@@ -1,0 +1,15 @@
+{
+    "name": "player.cyrildz",
+    "description": "description of Player",
+    "architecture": "all",
+    "title": "Player",
+    "hooks": {
+        "app": {
+            "apparmor": "app.apparmor",
+            "desktop": "app.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Cyrille Ngassam Nkwenga <cyrildz@gmail.com>",
+    "framework": "ubuntu-sdk-15.04-qml"
+}
